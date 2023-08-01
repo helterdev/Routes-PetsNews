@@ -4,7 +4,6 @@ import { Link } from "react-router-dom"
 const Header = () => {
     return(
         <header className="header container">
-            <span className="menu-hamburguer__icon"></span>
             <div className="header-container">
                 <Link to="/" className="flex flex--center">
                     <img src={dogito} alt="dogito" className="header__logo" />
