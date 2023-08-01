@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Routes-PetsNews/static/css/main.6d4f9082.css",
+    "main.js": "/Routes-PetsNews/static/js/main.f88204b8.js",
+    "static/js/787.998b4c01.chunk.js": "/Routes-PetsNews/static/js/787.998b4c01.chunk.js",
+    "static/media/doguito404.svg": "/Routes-PetsNews/static/media/doguito404.1a2ea648e55f624012d83c6ff066006f.svg",
+    "static/media/doguito.svg": "/Routes-PetsNews/static/media/doguito.3541f9d895bc412844a5035a020012f9.svg",
+    "index.html": "/Routes-PetsNews/index.html",
+    "static/media/menu.svg": "/Routes-PetsNews/static/media/menu.b8919896762e88a5e573.svg",
+    "main.6d4f9082.css.map": "/Routes-PetsNews/static/css/main.6d4f9082.css.map",
+    "main.f88204b8.js.map": "/Routes-PetsNews/static/js/main.f88204b8.js.map",
+    "787.998b4c01.chunk.js.map": "/Routes-PetsNews/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4f9082.css",
+    "static/js/main.f88204b8.js"
+  ]
+}
